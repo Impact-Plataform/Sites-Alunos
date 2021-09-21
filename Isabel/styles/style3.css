@@ -1,0 +1,101 @@
+@import url(global.css);
+
+body{
+
+    background-image: url("dark.academia.png");
+    color: aliceblue;
+    font-family: monospace;
+
+}
+
+.container-fluid{
+
+    background-image: linear-gradient( to right, rgb(97, 81, 52), rgb(26, 21, 11));
+    color: aliceblue;
+    font-family: monospace;
+
+}
+
+#margem{
+
+    background-image: linear-gradient( to right, rgb(26, 21, 11), rgb(97, 81, 52));
+    color: aliceblue;
+    font-family: monospace;
+
+}
+
+#margem2{
+
+    background-image: linear-gradient( to right, rgb(26, 21, 11), rgb(97, 81, 52));
+    color: aliceblue;
+    font-family: monospace;
+
+}
+
+#inicio{
+
+    color: aliceblue;
+    font-family: monospace;
+
+}
+
+#sobre{
+
+    color: aliceblue;
+    font-family: monospace;
+
+}
+
+#quem{
+
+    background-image: linear-gradient( to right, rgb(97, 81, 52), rgb(26, 21, 11));
+    color: aliceblue;
+    font-family: monospace;
+
+}
+
+#contate{
+
+    background-image: linear-gradient( to right, rgb(97, 81, 52), rgb(26, 21, 11));
+    color: aliceblue;
+    font-family: monospace;
+
+}
+
+#mia{
+
+    color: aliceblue;
+    font-family: monospace;
+
+}
+
+#botao{
+
+    color: aliceblue;
+
+}
+
+#pesquisar{
+
+    background-image: linear-gradient( to right, rgb(97, 81, 52), rgb(26, 21, 11));
+    color: aliceblue;
+    font-family: monospace;
+
+}
+
+#text{
+    
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    border-radius: 10px;
+    background-color: rgb(53, 40, 27);
+    text-align: center;
+    color: aliceblue;
+    font-family: monospace;
+    width: 500px;
+    height: 810px;
+    padding: 50px;
+    box-sizing: border-box;
+
+}

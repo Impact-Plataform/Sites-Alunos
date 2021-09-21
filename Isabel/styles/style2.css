@@ -1,0 +1,289 @@
+@import url(global.css);
+
+.insta{
+    margin: 15px;
+    width: 80px;
+}
+
+.yt{
+    width: 105px;
+    border-radius: 30px;
+}
+
+.facebook{
+    margin: 15px;
+    width: 80px;
+    border-radius: 50px;
+}
+
+body{
+    font-size: 16px;
+    background-image: url("dark.academia.png");
+    color: aliceblue;
+    font-family: monospace;
+
+}
+
+.container-fluid{
+    font-size: 16px;
+    background-image: linear-gradient( to right, rgb(97, 81, 52), rgb(26, 21, 11));
+    color: aliceblue;
+    font-family: monospace;
+
+}
+
+#margem{
+    font-size: 16px;
+    background-image: linear-gradient( to right, rgb(26, 21, 11), rgb(97, 81, 52));
+    color: aliceblue;
+    font-family: monospace;
+}
+
+#margem2{
+    font-size: 16px;
+    background-image: linear-gradient( to right, rgb(26, 21, 11), rgb(97, 81, 52));
+    color: aliceblue;
+    font-family: monospace;
+}
+
+#inicio{
+    font-size: 16px;
+    color: aliceblue;
+    font-family: monospace;
+}
+
+#sobre{
+    font-size: 16px;
+    color: aliceblue;
+    font-family: monospace;
+}
+
+#quem{
+    font-size: 16px;
+    background-image: linear-gradient( to right, rgb(97, 81, 52), rgb(26, 21, 11));
+    color: aliceblue;
+    font-family: monospace;
+}
+
+#contate{
+    font-size: 16px;
+    background-image: linear-gradient( to right, rgb(97, 81, 52), rgb(26, 21, 11));
+    color: aliceblue;
+    font-family: monospace;
+}
+
+#mia{
+    font-size: 16px;
+    color: aliceblue;
+    font-family: monospace;
+}
+
+#botao{
+    font-size: 16px;
+    color: aliceblue;
+}
+
+#pesquisar{
+    font-size: 16px;
+    background-image: linear-gradient( to right, rgb(97, 81, 52), rgb(26, 21, 11));
+    color: aliceblue;
+    font-family: monospace;
+
+}
+
+#text{
+    font-size: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: rgb(53, 40, 27);
+    text-align: center;
+    color: aliceblue;
+    font-family: monospace;
+    width: 800px;
+    height: 650px;
+    padding: 50px;
+    box-sizing: border-box;
+    border: 5px solid rgb(88, 65, 35);
+}
+
+#text2{
+    font-size: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: rgb(53, 40, 27);
+    text-align: center;
+    color: aliceblue;
+    font-family: monospace;
+    width: 800px;
+    height: 650px;
+    padding: 50px;
+    box-sizing: border-box;
+    border: 5px solid rgb(88, 65, 35);
+}
+
+#text3{
+    font-size: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: rgb(53, 40, 27);
+    text-align: center;
+    color: aliceblue;
+    font-family: monospace;
+    width: 800px;
+    height: 600px;
+    padding: 50px;
+    box-sizing: border-box;
+    border: 5px solid rgb(88, 65, 35);
+}
+
+#text4{
+    font-size: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: rgb(53, 40, 27);
+    text-align: center;
+    color: aliceblue;
+    font-family: monospace;
+    width: 800px;
+    height: 800px;
+    padding: 50px;
+    box-sizing: border-box;
+    border: 5px solid rgb(88, 65, 35);
+}
+
+#text5{
+    font-size: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: rgb(53, 40, 27);
+    text-align: center;
+    color: aliceblue;
+    font-family: monospace;
+    width: 800px;
+    height: 840px;
+    padding: 50px;
+    box-sizing: border-box;
+    border: 5px solid rgb(88, 65, 35);
+}
+
+#text6{
+    font-size: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: rgb(53, 40, 27);
+    text-align: center;
+    color: aliceblue;
+    font-family: monospace;
+    width: 800px;
+    height: 650px;
+    padding: 50px;
+    box-sizing: border-box;
+    border: 5px solid rgb(88, 65, 35);
+}
+
+#text7{
+    font-size: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: rgb(53, 40, 27);
+    text-align: center;
+    color: aliceblue;
+    font-family: monospace;
+    width: 800px;
+    height: 375px;
+    padding: 50px;
+    box-sizing: border-box;
+    border: 5px solid rgb(88, 65, 35);
+}
+
+#persa{
+    border-radius: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 500px;
+    border: 5px solid #ddd;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+#bengal{
+    border-radius: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 500px;
+    border: 5px solid #ddd;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+#maine{
+    border-radius: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 500px;
+    border: 5px solid #ddd;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+#curto{
+    border-radius: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 500px;
+    border: 5px solid #ddd;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+#ragdoll{
+    border-radius: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 500px;
+    border: 5px solid #ddd;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+#siames{
+    border-radius: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 500px;
+    border: 5px solid #ddd;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+#raca{
+    font-size: 20px;
+    text-align: center;
+    font-family: monospace;
+}
