@@ -1,4 +1,4 @@
 
-![Plataforma Impact Logo](Impact-Plataform/Sites-Alunos/Images/logo.jpg)
+![Plataforma Impact Logo](https://github.com/Impact-Plataform/Sites-Alunos/blob/master/Images/logo.jpg)
 
 
